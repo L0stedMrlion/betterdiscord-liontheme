@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "Mrlion",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "sass": "^1.69.5"
   }
