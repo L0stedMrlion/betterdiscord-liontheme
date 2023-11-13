@@ -15,5 +15,8 @@
   },
   "keywords": [],
   "author": "Mrlion",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
 }
